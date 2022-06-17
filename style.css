@@ -1,0 +1,76 @@
+.niev {
+    color: rgb(100, 19, 176);
+    font-size: 30px;
+}
+
+.hav {
+    color: magenta;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+
+.two {
+    background-color: darkturquoise;
+}
+
+.my {
+    /*background-repeat: no-repeat;
+            background-size: 100%;
+            background-image: url('b2f77d0b58d5b49218e76a41d039b07c.webp');*/
+    margin: 0;
+}
+
+.menu {
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+
+.menu-item {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+}
+
+.menu-item:hover {
+    background-color: rgb(100, 200, 167);
+    border-radius: 10px;
+}
+
+.flex-container {
+    width: 80%;
+    height: 80%;
+    background-color: rgb(255, 251, 199);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container p {
+    height: 50px;
+    width: 30px;
+    font-size: 45px;
+    /* background-color: rgb(158, 158, 255); */
+}
+
+.green {
+    background-color: rgb(70, 255, 70);
+}
+
+.red {
+    background-color: rgb(255, 70, 70);
+}
+
+.blue {
+    background-color: rgb(70, 70, 255);
+}
