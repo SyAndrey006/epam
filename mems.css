@@ -4,14 +4,15 @@ main {
 
 .galery {
     display: flex;
-    width: 500px;
-    height: 637px;
+    width: 450px;
+    height: 590px;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
     margin: 0 auto;
     border: 2px solid rgba(255, 255, 255, 0.857);
-
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .galery-image {
@@ -28,7 +29,7 @@ main {
     margin-top: auto;
     margin-bottom: auto;
     display: block;
-    width: 500px;
+    width: 450px;
 
 }
 
