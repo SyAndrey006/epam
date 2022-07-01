@@ -1,0 +1,43 @@
+main {
+    width: 100vw;
+}
+
+.galery {
+    display: flex;
+    width: 500px;
+    height: 637px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    border: 2px solid rgba(255, 255, 255, 0.857);
+
+}
+
+.galery-image {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 500px;
+
+    background-color: black;
+    
+}
+
+.galery-image-img{
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    width: 500px;
+
+}
+
+.first-image {
+    margin-left: -500;
+}
+
+.controls {
+    width: fit-content;
+    margin: 0 auto;
+
+}
