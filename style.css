@@ -48,6 +48,7 @@
 }
 
 .menu-item:hover, .active {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(100,200,167,1) 50%, rgba(0,212,255,1) 100%);
     background-color: rgb(100, 200, 167);
     border-radius: 10px;
 }
